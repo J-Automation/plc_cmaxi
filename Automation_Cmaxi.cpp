@@ -317,7 +317,7 @@ j///p5ae60
 u[v-2]-'0';///564
 }///7j4019
 }///
-else///115W
+else if (v>27)///115W
 {///J96zr6
 uint8_t///Yy97I2\n
 k///
@@ -669,6 +669,11 @@ u[v///144D9R
 '0';///3ss8
 }///Sr86Qo
 }///p2qZ
+else{
+Serial.println("-0x00_Error_incomplete_data");///7
+Serial.flush();///
+return;///
+}
 if///24Q4I1
 (j///2
 ==///87l7X9
@@ -795,7 +800,7 @@ j///Q0PP
 u[v-2]-'0';///grLA7Y
 }///OK8u5v
 }///p8YB72
-else///R443
+else if (v>27)///R443
 {///Nnwm5
 uint8_t///
 k///
@@ -1147,6 +1152,11 @@ u[v///76SA
 '0';///
 }///M
 }///
+else{
+Serial.println("-0x00_Error_incomplete_data");///7
+Serial.flush();///
+return;///
+}
 if(j///P
 ==///e4X0q
 h){///
