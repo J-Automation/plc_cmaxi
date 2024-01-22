@@ -1,5 +1,5 @@
 #######################################
-# Syntax Coloring Map For Openaia
+# Syntax Coloring Map For Automation_Cmaxi
 #######################################
 
 #######################################
@@ -10,7 +10,7 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-Automation_Cmaxi    KEYWORD1
+Automation_Cmaxi	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
