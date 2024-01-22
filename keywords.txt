@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map For Openaia
+#######################################
+
+#######################################
+# Caution! Use Tab instead of spaces
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Automation_Cmaxi	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2	
+dataTransfer	KEYWORD2
+noInputs	KEYWORD2
+noOutputs	KEYWORD2
+onlyOutputsPort	KEYWORD2
+setEntryPoint	KEYWORD2
+setExitPoint	KEYWORD2
+setID	KEYWORD2
+setConfirmation	KEYWORD2
+getOutputPortValues	KEYWORD2
+getOutputPinList	KEYWORD2
+
